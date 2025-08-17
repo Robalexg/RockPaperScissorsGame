@@ -79,8 +79,6 @@ const playAgain = () => {
 
 }
 
-
-
 buttons('start')
 
 
